@@ -1,1 +1,1 @@
-Um site básico para divulgar uma loj de aqquarismo, com utilização básica de HTML e CSS!
+Um site básico para divulgar uma loja de aquarismo, com utilização básica de HTML e CSS!
