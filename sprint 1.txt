@@ -1,0 +1,9 @@
+Sprint 1
+
+---->Cliente: Xtreme Reef-Loja de aquarismo
+---->Objetivo:Desenvolver um site responsivo para a loja
+---->Necessidade:
+---->Página inicial (Texto/imagem)
+---->Sobre a loja(Texto/imagem)
+---->Produtos e serviços(Texto/imagem)
+---->Contato e Localização(Texto/Mapa)

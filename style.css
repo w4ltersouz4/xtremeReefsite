@@ -1,0 +1,106 @@
+body{
+    background-color: black;
+    height: 900px;
+}
+#navbar{
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-around;
+    margin-top: 5vh;
+}
+#aquario2div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 11vw;
+}
+h2{
+    color: white;
+}
+.textosnav{
+    padding-top: 5vh;
+    border-bottom-style: solid;
+    border-color: #ff6b20;
+}
+h1{
+    color: #ff6b20;
+    margin-left: 42.5vw;
+    font-size: 30px;
+    margin-top: 5vh;
+
+}
+#sobreh1{
+    margin-left: 45vw;
+}
+#contatoh2{
+    color: #ff6b20;
+    margin-left: 25vw;
+}
+#linha{
+    margin-top: 4vh;
+    height: 0.2vh;
+    background-color: #ff6b20;
+}
+#aquario1{
+    border-radius: 30px;
+    width: 51vw;
+    margin-left: 12.5vw;
+}
+#aquario2{
+    width: 10vw;
+    height: 14vh;
+}
+#homep1{
+    color: white;
+    width: 51vw;
+    font-size: 20px;
+    margin-top: 5vh;
+    margin-left: 25vw;
+}
+#aquario2{
+    margin-left: 12vw;
+}
+#loginmain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#loginform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    border-color: #ff6b20;
+    border-radius: 5px;
+    width: 500px;
+    padding: 15px;
+}
+#loginform button{
+    background-color: #ff6b20;
+    margin-top: 20px;
+    width: 80px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+}
+#loginh1{
+    margin-left: 0vw;
+}
+#loginform p{
+    color: #ff6b20;
+}
+#homelogin{
+    display: flex;
+    margin-top: 10vh;
+    margin-left: 4vw;
+    justify-content: space-evenly;
+}
+#homelogin button{
+    background-color: #ff6b20;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
